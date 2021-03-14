@@ -34,5 +34,7 @@
   text-justify: inter-word;
   }
 
- 
+ .compression {
+   line-height: 0.95;
+ }
  
